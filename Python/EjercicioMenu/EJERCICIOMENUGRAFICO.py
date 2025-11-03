@@ -8,7 +8,7 @@ HARMONY_BTN_COLOR = "#555555"
 HARMONY_FG_COLOR = "#F0F0F0" 
 HARMONY_RED_COLOR = "#800000" 
 
-IMAGE_FILE = "EjercicioMenú/rafaelalberti.png"
+IMAGE_FILE = "EjercicioMenu/rafaelalberti.png"
 
 
 def conversion(a):
