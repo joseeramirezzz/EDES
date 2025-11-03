@@ -1,1 +1,0 @@
-tipo test 15 preguntas 1 correcta(teoría de C y C++), algunas preguntas de razonamiento, trozo de código y le tenemos que decir la salida, hacer un programa en C y C ++, PROGRAMA EN C++ HACER UNA CLASE CREAR UNOS OBJETOS Y METERLO EN UNA LISTA
